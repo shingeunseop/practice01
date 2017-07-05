@@ -32,7 +32,10 @@ public class Prac07 {
 					System.out.println("      [숫자맞추기게임 종료]");
 					System.out.println("=========================");
 					break;
+					
 				}
+				else
+					num=(int)(Math.random()*100)+1;
 			}
 		
 			
